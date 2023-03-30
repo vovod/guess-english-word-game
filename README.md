@@ -1,2 +1,1 @@
-# guess-english-word-game
-Hangman
+# Hangman in Python
