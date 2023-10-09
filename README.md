@@ -1,3 +1,3 @@
 # guess-english-word-game
-Hangman
+## Hangman  
 ![img](test.png)
